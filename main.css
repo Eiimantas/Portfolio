@@ -56,7 +56,6 @@ body {
     max-height: 532px;
     min-height: 532px;
     display: block;
-
 }
 
 .transition-container {
@@ -162,7 +161,7 @@ p {
     color: #EEEEEE;
 }
 
-:hover.btn-contact-me {
+.btn-contact-me:hover {
     background-color: #EEEEEE;
     color: #627254;
 }
